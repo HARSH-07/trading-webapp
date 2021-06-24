@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './tradinglogo.gif';
 import './App.css';
 
 function App() {
@@ -7,18 +7,21 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to my trading app
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.linkedin.com/in/harsh-raj-73a78113b"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Follow me on linkedin for more
         </a>
       </header>
-    </div>
+      
+    </div> 
+
+    
   );
 }
 
