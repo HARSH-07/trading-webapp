@@ -17,6 +17,14 @@ function App() {
         >
           Follow me on linkedin for more
         </a>
+        <a
+          className="App-link"
+          href="https://github.com/HARSH-07"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          You can also follow me on github for collaboration
+        </a>
       </header>
       
     </div> 
